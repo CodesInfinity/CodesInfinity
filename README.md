@@ -19,7 +19,7 @@ If you have any questions, ideas, or potential collaborations in mind, please do
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
 [![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat&logo=astro&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)

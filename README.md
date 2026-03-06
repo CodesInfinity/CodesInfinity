@@ -14,20 +14,6 @@ If you have any questions, ideas, or potential collaborations in mind, please do
 [![LinkedIn](https://img.shields.io/badge/-Agustin%20Rodriguez%20Aguilar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-rodriguez-aguilar/)](https://www.linkedin.com/in/agustin-rodriguez-aguilar/)
 [![Twitter](https://img.shields.io/badge/-CodesInfinity-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/CodesInfinity)](https://twitter.com/CodesInfinity)
 
-### Languages and Tools:
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![Astro](https://img.shields.io/badge/-Astro-FF5A03?style=flat&logo=astro&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=matlab&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white&link=https://github.com/CodesInfinity)](https://github.com/CodesInfinity)
-
-
 <!--
 **CodesInfinity/CodesInfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
